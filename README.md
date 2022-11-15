@@ -1,27 +1,27 @@
-# Next.js + Tailwind CSS Example
+# Medium clone app
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+Click [here](https://sanity-medium-clone-app.vercel.app/) to see completed app😃
 
-## Deploy your own
+## What will I see in this build?
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+👉  a Content Management System (Sanity CMS) to manage structured data
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+👉  fetching CMS data into a Next.js app using efficient Modern Data Fetching techniques
 
-## How to use
+👉  usage of Next.js Incremental Static Regeneration to speed up page loading & optimise the caching of pages!
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+👉 an awesome responsive UI with Tailwind CSS
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
+👉  robust code & reduce bugs using TypeScript 
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+## How to start the project?
 
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
+1. Download or clone this repository
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+2. Install its dependencies: npm install / yarn
+
+3. Build the project: npm run build / yarn build
+
+4. Start the project: npm run dev
+
+5. The website is now working, hope you enjoy it 😃
