@@ -1,6 +1,6 @@
 # Medium clone app
 
-Click [here](https://sanity-medium-clone-app.vercel.app/) to see completed app😃
+Click [here](https://medium-clone-app-iota.vercel.app/) to see completed app😃
 
 ## What will I see in this build?
 
